@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bag Handle -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M44,38 C44,30 48,26 54,26 C60,26 64,30 64,38"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeWidth="4.5" />
+
+    <!-- Shopping Bag Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,38 L75,38 C77.2,38 79,39.8 78.8,42 L75.5,77 C75.3,79.2 73.5,81 71.3,81 L36.7,81 C34.5,81 32.7,79.2 32.5,77 L29.2,42 C29,39.8 30.8,38 33,38 Z" />
+
+    <!-- Green Leaf Motif Inside Bag -->
+    <path
+        android:fillColor="#1B8756"
+        android:pathData="M54,47 C48,47 44,53 45,61 C45,67 50,71 54,72 C58,71 63,67 63,61 C64,53 60,47 54,47 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,51 C52,56 52,63 54,68 C56,63 56,56 54,51 Z" />
+</vector>
